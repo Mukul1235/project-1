@@ -1,0 +1,33 @@
+.blog{
+  display: inline;
+  justify-content: center;
+  align-items: center;
+}
+
+.blog_component{
+  margin-left: 650px;
+  /* margin-right: 650px; */
+  /* border: solid; */
+  /* border-radius: 10px; */
+}
+
+.card{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: orange;
+}
+
+.input-field{
+  border-radius: 10px;
+  border: 1px solid;
+  box-shadow: rgb(28, 27, 25);
+  font-size: 25px;
+  margin: 10px;
+}
+
+.btn{
+border: 0 px;
+padding: 10px 20px;
+border-radius: 10px;
+margin: 5pxx;
+}
